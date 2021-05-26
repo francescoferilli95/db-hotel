@@ -1,0 +1,100 @@
+1. Seleziona tutti gli ospiti che sono stati identificati con la carta di
+identità
+
+Elizabeth Romaguera CI,
+Madie Sanford CI,
+Lysanne Buckridge CI,
+Jessie Kozey CI,
+Shemar Keeling CI,
+Edwardo Pacocha CI,
+Jacquelyn Ankunding CI,
+Willie Borer CI,
+Kamron Murphy CI,
+Charley Abernathy CI,
+Tyrel Murphy CI,
+Gillian Reichel CI,
+Briana Cartwright CI,
+Lamar Kocha CI,
+Lafayette Brakus CI
+
+2. Seleziona tutti gli ospiti che sono nati dopo il 1988
+
+Elizabeth Romaguera,
+Jacquelyn Ankunding,
+Tristian Koss,
+Kamron Murphy,
+Helene Hansen,
+Dion Leannon,
+Emilie Grant,
+Laurence Green,
+Nikita Donnelly,
+Gillian Reichel
+
+3. Seleziona tutti gli ospiti che hanno più di 20 anni (al momento
+dell’esecuzione della query)
+
+Madie Sanford,
+Orion Hilpert,
+Lysanne Buckridge,
+Jessie Kozey,
+Shemar Keeling,
+Edwardo Pacocha,
+Delilah Renner,
+Jacquelyn Ankunding,
+Willie Borer,
+Helene Hansen,
+Charley Abernathy,
+Dion Leannon,
+Zelda Johns,
+Hadley Collins,
+Deron Hand,
+Adriana Abernathy,
+Tyrel Murphy,
+Dandre Kautzer,
+Arlo Keeling,
+Gillian Reichel,
+Briana Cartwright,
+Shirley Brakus,
+Lamar Koch,
+Lafayette Brakus
+
+4. Seleziona tutti gli ospiti il cui nome inizia con la D
+
+Delilah Renner,
+Dion Leannon,
+Deron Hand,
+Dandre Kautzer
+
+5. Calcola il totale incassato degli ordini accepted
+
+4164.00€
+
+6. Qual è il prezzo massimo pagato?
+
+massimo pagato negli 'accepted' = 869.00€,
+massimo da pagare in 'pending' = 993.00€
+
+7. Seleziona gli ospiti riconosciuti con patente e nati nel 1975
+
+Orion Hilpert
+
+8. Quanti paganti sono anche ospiti?
+
+Deron Hand,
+Elizabeth Romaguera,
+Delilah Renner,
+Lamar Koch,
+Madie Sanford,
+Shemar Keeling,
+Willie Borer,
+Dion Leannon,
+Gillian Reichel,
+Willie Borer,
+Tyrel Murphy,
+Lysanne Buckridge,
+Orion Hilpert,
+Kamron Murphy
+
+9. Quanti posti letto ha l’hotel in totale?
+
+33 Numero posti letto totali
